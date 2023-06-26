@@ -3,7 +3,7 @@
 ## Sobre mim 🎯
 
 💻 Trabalho como Desenvolvedor Back-end<br>
-💻 Aberto para desenvolvimento de software por encomenda<br>
+💻 Disponibilidade para desenvolvimento de software por encomenda<br>
 📚 Graduado em Informática para negócios pela Fatec<br>
 📚 Aprendendo mais sobre TDD, Patterns e assuntos envolvendo arquitetura de software<br>
 💬 Se quiser conversar sobre tecnologia/desenvolvimento web, só chegar<br>
