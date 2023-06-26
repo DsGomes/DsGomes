@@ -1,9 +1,5 @@
 # Diego Gomes
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/diegogomes/) &nbsp;
-[![Instagram Diego Gomes Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/die.gomes/) &nbsp;
-<br>
-
 ## Sobre mim 🎯
 
 💻 Trabalho como Desenvolvedor Back-end<br>
@@ -11,6 +7,10 @@
 📚 Graduado em Informática para negócios pela Fatec<br>
 📚 Aprendendo mais sobre TDD, Patterns e assuntos envolvendo arquitetura de software<br>
 💬 Se quiser conversar sobre tecnologia/desenvolvimento web, só chegar<br>
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/diegogomes/) &nbsp;
+[![Instagram Diego Gomes Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/die.gomes/) &nbsp;
 <br>
 
 ## Stack 👩🏻‍💻
